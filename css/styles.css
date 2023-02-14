@@ -7,6 +7,9 @@ body {
   background-position: center center;
 }
 
+header {
+  margin: 23px;
+}
 header nav .container {
   margin: 25px;
   display: flex;
@@ -20,6 +23,23 @@ header nav div .element {
   height: 50px;
 }
 
+a {
+  font-size: 23px;
+  text-transform: uppercase;
+  color: #000; 
+}
+
+a:active {
+  color: green;
+}
+
+header .title {
+  background-color: rgba(242, 215, 131, 0.21);
+  padding: 105px 30px 70px;
+  font-size: 20px;
+  text-align: center;
+  text-transform: capitalize;
+}
 
 img {
   display: block;
