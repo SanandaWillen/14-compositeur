@@ -8,7 +8,7 @@ body {
 }
 
 header {
-  margin: 23px;
+  margin: 10 px 23px;
 }
 
 header nav .container {
@@ -48,7 +48,7 @@ h1, h2, h3, a {
 }
 
 main div {
-  margin: 128px 48px;
+  margin: 118px 48px;
   padding: 8px;
 }
 
@@ -62,8 +62,9 @@ h2 {
 
 p{
   font-family: century-old-style-std, serif;
-  font-size: 15px;
-  margin-top: 0;
+  font-size: 14px;
+  margin: 0 0 12px 0;
+  padding: 0;
 }
 
 .legende {
