@@ -1,8 +1,12 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: #ddd;
+  background: #fff;
+  background-image: url("/Users/sanandawillenimd11/Doc_IMD11/FD/Sites_vrai/14-compositeur/img/background_art-deco.svg");
+  background-repeat: no-repeat;
+  background-position: center center;
 }
+
 
 img {
   display: block;
