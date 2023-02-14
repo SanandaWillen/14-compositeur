@@ -21,10 +21,12 @@ header nav .container {
 
 header nav div .element {
   width: 100px;
+  height: 30px;
 }
 
 a {
   font-size: 23px;
+  font-weight: 400;
   text-transform: uppercase;
   color: #000; 
 }
@@ -65,4 +67,12 @@ p{
 
 img {
   display: block;
+  max-width: 100%;
 }
+
+.compositeur img {
+  width: 177px;
+  height: 175px;
+  margin: auto;
+}
+
