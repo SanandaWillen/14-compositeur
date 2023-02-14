@@ -14,7 +14,6 @@ header {
 header nav .container {
   margin: 25px;
   display: flex;
-  flex-direction: ;
   flex-wrap: wrap;
   justify-content: space-between;
 }
@@ -63,6 +62,14 @@ h2 {
 p{
   font-family: century-old-style-std, serif;
   font-size: 15px;
+}
+
+.legende {
+  font-family: GatsbyFLF;
+  font-size: 19px;
+  text-transform: capitalize;
+  text-align: center;
+  margin: 4px;
 }
 
 img {
