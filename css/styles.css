@@ -10,6 +10,7 @@ body {
 header {
   margin: 23px;
 }
+
 header nav .container {
   margin: 25px;
   display: flex;
@@ -20,7 +21,6 @@ header nav .container {
 
 header nav div .element {
   width: 100px;
-  height: 50px;
 }
 
 a {
@@ -35,7 +35,7 @@ a:active {
 
 header .title {
   background-color: rgba(242, 215, 131, 0.21);
-  padding: 105px 30px 70px;
+  padding: 88px 30px 64px;
   font-size: 20px;
   text-align: center;
   text-transform: capitalize;
