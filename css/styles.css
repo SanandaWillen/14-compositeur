@@ -97,3 +97,9 @@ img {
   height: 237px;
   margin: auto;
 }
+
+.lien-spotify {
+  text-transform: capitalize;
+  text-align: center;
+}
+
