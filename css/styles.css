@@ -8,27 +8,29 @@ body {
 }
 
 header {
-  margin: 10 px 23px;
+  margin:  28px 23px;
+  margin-top: 38px;
 
 }
 
 header nav .container {
-  margin: 25px;
+  margin: 62px 25px 15px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
 }
 
 header nav div .element {
-  width: 100px;
-  height: 30px;
+  width: 85px;
+  height: 31px;
 }
 
 a {
-  font-size: 23px;
-  font-weight: 400;
+  font-size: 25px;
+  font-weight: 600;
   text-transform: uppercase;
   color: #000; 
+  text-decoration: none;
 }
 
 a:active {
@@ -37,9 +39,13 @@ a:active {
 
 header .title {
   background-color: rgba(242, 215, 131, 0.21);
-  padding: 88px 30px 64px;
+  margin: 26px 10px;
+  padding: 82px 15px 58px;
   font-size: 20px;
   font-weight: 600;
+  line-height: 1.5;
+  word-spacing: 1px;
+  letter-spacing: 0.2px;
   text-align: center;
   text-transform: capitalize;
 }
