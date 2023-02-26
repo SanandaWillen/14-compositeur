@@ -14,7 +14,7 @@ header {
 }
 
 header nav .container {
-  margin: 62px 25px 15px;
+  margin: 42px 25px 15px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -39,7 +39,7 @@ a:active {
 
 header .title {
   background-color: rgba(242, 215, 131, 0.21);
-  margin: 26px 10px;
+  margin: 44px 10px;
   padding: 82px 15px 58px;
   font-size: 20px;
   font-weight: 600;
@@ -56,21 +56,21 @@ h1, h2, h3, a {
 
 main div {
   margin: 118px 48px;
-  padding: 8px;
+  padding: 0;
 }
 
 h2 {
   text-align: center;
   font-weight: 400;
   text-transform: capitalize;
-  font-size: 40px;
+  font-size: 38px;
   margin: 7px 0;
 }
 
 p{
   font-family: century-old-style-std, serif;
   font-size: 14px;
-  margin: 0 0 12px 0;
+  margin: 0 4px 12px ;
   padding: 0;
 }
 
