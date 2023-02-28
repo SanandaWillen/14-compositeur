@@ -1,20 +1,22 @@
 body {
   max-width: 320px;
+  height: 5589px;
   margin: auto;
   background: #fff;
   background-image: url("/Users/sanandawillenimd11/Doc_IMD11/FD/Sites_vrai/14-compositeur/img/background_art-deco.svg");
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: 320px 100%;
+  background-size: 320px 5589px;
+
 
 }
 
 header {
-  margin: 10 px 23px;
+  margin: 50px 23px;
 }
 
 header nav .container {
-  margin: 25px;
+  margin: 40px 10px 10px 24px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -26,7 +28,7 @@ header nav div .element {
 }
 
 a {
-  font-size: 23px;
+  font-size: 26px;
   font-weight: 600;
   text-transform: uppercase;
   color: #000; 
@@ -39,8 +41,8 @@ a:active {
 
 header .title {
   background-color: rgba(242, 215, 131, 0.21);
-  margin: 44px 10px;
-  padding: 88px 30px 64px;
+  margin: 42px 6px;
+  padding: 88px 30px 78px;
   font-size: 20px;
   font-weight: 600;
   line-height: 1.5;
@@ -56,8 +58,8 @@ h1, h2, h3, a {
 
 
 main div {
-  margin: 118px 48px;
-  padding: 0;
+  margin: 110px 30px;
+  padding: 0 10px;
 }
 
 h2 {
