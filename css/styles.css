@@ -12,7 +12,8 @@ body {
 }
 
 header {
-  margin: 50px 23px;
+  margin: 0px 23px;
+  padding-top: 8px;
 }
 
 header nav .container {
@@ -24,11 +25,11 @@ header nav .container {
 
 header nav div .element {
   width: 100px;
-  height: 30px;
+  height: 28px;
 }
 
 a {
-  font-size: 26px;
+  font-size: 30px;
   font-weight: 600;
   text-transform: uppercase;
   color: #000; 
@@ -42,8 +43,8 @@ a:active {
 header .title {
   background-color: rgba(242, 215, 131, 0.21);
   margin: 42px 6px;
-  padding: 88px 30px 78px;
-  font-size: 20px;
+  padding: 25px 27px;
+  font-size: 24px;
   font-weight: 600;
   line-height: 1.5;
   word-spacing: 1px;
