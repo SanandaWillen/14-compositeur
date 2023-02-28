@@ -5,29 +5,28 @@ body {
   background-image: url("/Users/sanandawillenimd11/Doc_IMD11/FD/Sites_vrai/14-compositeur/img/background_art-deco.svg");
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: 100%;
+  background-size: 320px 100%;
+
 }
 
 header {
-  margin:  28px 23px;
-  margin-top: 38px;
-
+  margin: 10 px 23px;
 }
 
 header nav .container {
-  margin: 42px 25px 15px;
+  margin: 25px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
 }
 
 header nav div .element {
-  width: 85px;
-  height: 31px;
+  width: 100px;
+  height: 30px;
 }
 
 a {
-  font-size: 25px;
+  font-size: 23px;
   font-weight: 600;
   text-transform: uppercase;
   color: #000; 
@@ -41,7 +40,7 @@ a:active {
 header .title {
   background-color: rgba(242, 215, 131, 0.21);
   margin: 44px 10px;
-  padding: 82px 15px 58px;
+  padding: 88px 30px 64px;
   font-size: 20px;
   font-weight: 600;
   line-height: 1.5;
@@ -55,9 +54,6 @@ h1, h2, h3, a {
   font-family: GatsbyFLF;
 }
 
-main {
-  max-height: 3976px;
-}
 
 main div {
   margin: 118px 48px;
@@ -117,7 +113,6 @@ img {
 
 .extrait {
   font-weight: 400;
-  margin-bottom: 70px;
 }
 
 .quote {
@@ -126,14 +121,14 @@ img {
 }
 
 footer {
-  margin: 0px 20px 310px;
+  margin: 20px 2px 402px;
 }
 
 footer div {
   background-color: rgba(242, 215, 131, 0.21);
-  margin: 0 48px 10px;
-  padding: 15px 0;
+  margin: 10px 16px;
+  padding: 19px 13px;
   text-transform: capitalize;
   text-align: center;
-  font-size: 17px;
+  font-size: 20px;
 }
