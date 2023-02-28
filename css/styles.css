@@ -7,8 +7,6 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 320px 5589px;
-
-
 }
 
 header {
@@ -57,12 +55,10 @@ h1, h2, h3, a {
   font-family: GatsbyFLF;
 }
 
-
 main div {
   margin: 110px 30px;
   padding: 0 10px;
 }
-
 
 h2 {
   text-align: center;
@@ -129,8 +125,6 @@ main .film {
 .synopsis {
   margin-top: 186px;
 }
-
-
 
 .lien-spotify {
   text-transform: capitalize;
