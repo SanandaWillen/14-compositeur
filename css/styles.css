@@ -75,14 +75,14 @@ h2 {
 p{
   font-family: century-old-style-std, serif;
   font-size: 14px;
-  margin: 0 4px 12px ;
+  margin: 0 4px 11px ;
   padding: 0;
   line-height: 20px;
 }
 
 .legende {
   font-family: GatsbyFLF;
-  font-size: 19px;
+  font-size: 18px;
   text-transform: capitalize;
   text-align: center;
   margin: 4px;
@@ -95,6 +95,7 @@ img {
 
 .compositeur {
   padding-top: 3px;
+  margin-bottom: 75px
 }
 
 .compositeur img {
@@ -105,7 +106,8 @@ img {
 }
 
 .realisateur {
-  
+  margin-top: 80px;
+  margin-bottom: 80px;
 }
 
 .realisateur img {
@@ -114,10 +116,18 @@ img {
   margin: auto;
 }
 
+main .film {
+  margin-top: 108px;
+}
+
 .film img {
   width: 158px;
   height: 237px;
   margin: auto;
+}
+
+.synopsis {
+  margin-top: 120px;
 }
 
 .lien-spotify {
